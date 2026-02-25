@@ -28,7 +28,7 @@ The design is responsive and works on mobile, tablet, and desktop screens.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/lmbfao/simply-scent-by-ck.git
+git clone https://github.com/ckwangechi/simply-scent-by-ck.git
 ```
 
 2. Navigate to the project folder:
@@ -45,7 +45,7 @@ cd simply-scent-by-ck
 
 You can view the live site on GitHub Pages:
 
-[Simply Scent by CK Live](https://lmbfao.github.io/simply-scent-by-ck/)
+[Simply Scent by CK Live](https://ckwangechi.github.io/simply-scent-by-ck/)
 
 ---
 
